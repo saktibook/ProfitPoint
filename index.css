@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Register:hover{
+    background-color: yellowgreen;
+    color:green;
+    border-radius: 5%;
+}
+
+
+
+.subscribe {
+    background-color: #0ebd0e;
+    border: #0ebd0e;
+    color: white;
+}
+
+
+.bgend,
+.wow {
+    background-color: #2e2e35;
+    color: white;
+}
+
+
+.mydiv {
+    height: auto;
+    width: 20%;
+}
+
+
+
+.icon {
+    color: white;
+
+
+}
+
+.icon:hover {
+    color: #0ebd0e;
+}
+
+
+.mybutton {
+    background-color: #0ebd0e;
+    border-radius: 0px !important;
+}
+
+.mybutton:hover {
+    background-color: #36db36;
+}
+
+
+
+.shadow {
+    box-shadow: 2px 2px rgb(218, 218, 218) !important;
+}
+
+
+
+.form-control1 {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    height: 40px;
+}
+
+.form-control2 {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 40px;
+    background-color: #dcda79;
+    color: black;
+}
+
+
+.myyyy {
+
+    width: 91%;
+    margin: auto;
+    background-color: white;
+    box-shadow: 0px 3px 20px -3px grey;
+}
+
+
+.hello {
+    background-color: #4856640A;
+}
+
+.myborder
+{
+    border: 2px solid red;
+}
